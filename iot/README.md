@@ -1,4 +1,4 @@
-# Image Library
+# IoT
 
 ![IoT](IoT-Platform-Architecture.jpg)
 ![IoT](IoT_Cloud_Platform.png)
