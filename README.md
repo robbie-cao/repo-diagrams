@@ -9,4 +9,5 @@
 
 ## [RFID](rfid/README.md)
 ## [NFC](nfc/README.md)
+## [ZigBee](zigbee/README.md)
 
