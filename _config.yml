@@ -1,13 +1,13 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "http://sunbliss.github.io"
-baseurl: "/photorama"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
+title: Diagram Repository
+email: "robbie.cao@gmail.com"
+description: "Diagram Journal"
+url: "http://robbie-cao.github.io"
+baseurl: "/repo-diagrams"
+facebook_username: "cao.robbie"
+twitter_username: "robbie_cao"
+instagram_username: "robbie_cao"
+github_username:  "robbie-cao"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -15,15 +15,15 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   robbie-cao
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Diagram Repository
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
 # Set 'provider' to false to turn commenting off globally.
-#Set 'provider: false' to disable comments globally.
+# Set 'provider: false' to disable comments globally.
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
