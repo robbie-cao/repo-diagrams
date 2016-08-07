@@ -81,6 +81,7 @@ images:
                     </a>
                 </li>
                 {% endif %}
+
                 {% if site.twitter_username %}
                 <li>
                     <a href="https://twitter.com/{{ site.twitter_username }}" style="color:#dddddd; target="_blank" title="Twitter">
@@ -89,6 +90,7 @@ images:
                     </a>
                 </li>
                 {% endif %}
+
                 {% if site.instagram_username %}
                 <li>
                     <a href="https://instagram.com/{{ site.instagram_username }}" style="
@@ -98,6 +100,7 @@ images:
                     </a>
                 </li>
                 {% endif %}
+
                 {% if site.flickr_username %}
                 <li>
                     <a href="https://flickr.com/photos/{{ site.flickr_username }}" style="color:#dddddd; target="_blank" title="Flickr">
@@ -114,17 +117,21 @@ images:
                     </a>
                 </li>
                 {% endif %}
+
                 {% if site.github_username %}
                 <li>
                     <a href="https://github.com/{{ site.github_username }}" style="color:#dddddd; target="_blank" title="Github">
                         <i class="fa fa-github"></i>
                         </span>
-                        {% endif %}
-                        <li>
-                            <a href="mailto:{{ site.email }}" style="color:#dddddd; target="_blank" title="Email">
-                                <i class="fa fa-envelope-o"></i></span>
-                            </a>
-                        </li>
+                    </a>
+                </li>
+                {% endif %}
+
+                <li>
+                    <a href="mailto:{{ site.email }}" style="color:#dddddd; target="_blank" title="Email">
+                        <i class="fa fa-envelope-o"></i></span>
+                    </a>
+                </li>
 
             </ul>
         </div>
@@ -146,7 +153,6 @@ images:
         <script src="{{ site.baseurl }}/js/jquery.lazylinepainter.min.js"></script>
         <!-- include custom script -->
         <script src="{{ site.baseurl }}/js/scripts.js"></script>
-
 
     </body>
 </html>
