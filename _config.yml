@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://robbie-cao.github.io/photorama/gallery/"  
-  - JOURNAL: "http://robbie-cao.github.io/photorama/journal/"
-  - ABOUT: "http://robbie-cao.github.io/photorama/about/"
+  - GALLERY: "http://robbie-cao.github.io/repo-diagrams/gallery/"  
+  - JOURNAL: "http://robbie-cao.github.io/repo-diagrams/journal/"
+  - ABOUT: "http://robbie-cao.github.io/repo-diagrams/about/"
 
 # All translation keys
 translations:
